@@ -24,7 +24,6 @@ retail-sales-analytics/
 │   └── train.csv
 │
 ├── analytics.ipynb
-├── Untitled.ipynb
 ├── Retail_Sales_Dashboard.pbix
 ├── README.md
 ```
