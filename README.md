@@ -77,9 +77,10 @@ pip install pandas numpy matplotlib seaborn
 * Assessed shipping efficiency
 
 ---
-##POWER BI Dashboard
+**##POWER BI Dashboard**
 
-<img width="434" height="328" alt="image" src="https://github.com/user-attachments/assets/d9dbf5a8-09fb-43e4-b7fe-ed3d54afc50e" />
+<img width="434" height="329" alt="image" src="https://github.com/user-attachments/assets/9d47ca6c-884e-42db-898c-5abfa0682e93" />
+
 
 
 
