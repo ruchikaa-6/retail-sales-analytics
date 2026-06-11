@@ -76,5 +76,10 @@ pip install pandas numpy matplotlib seaborn
 * Observed monthly sales trends
 * Assessed shipping efficiency
 
+---
+##POWER BI Dashboard
+
+<img width="434" height="328" alt="image" src="https://github.com/user-attachments/assets/d9dbf5a8-09fb-43e4-b7fe-ed3d54afc50e" />
+
 
 
